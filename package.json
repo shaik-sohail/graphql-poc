@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@octokit/rest": "^18.12.0",
+    "apollo-server": "^3.9.0",
+    "axios": "^0.27.2",
+    "graphql": "^16.5.0"
+  }
+}
